@@ -5,11 +5,11 @@ This repository contains work that I did as part of Natural Language Processing 
 
 ## Projects implemented are as follows:
 
-### 1. Predicting Bike Sharing Patterns.
+### 1. Part's of Speech Tagger.
 
 Built a Part's of Speech Tagger using Hidden Markov Models.
 
-### 2. Dog Breed Classifier using CNN.
+### 2. Machine Translation.
 
 Machine Translation using Recurrent Neural Networks.
 
